@@ -133,16 +133,3 @@ dmypy.json
 .deployment
 
 .idea
-
-venv/
-
-*
-
-!.gitignore
-!the_snake.py
-!requirements.txt
-!README.md
-!setup.cfg
-!pytest.ini
-!tests/
-!tests/*.py
